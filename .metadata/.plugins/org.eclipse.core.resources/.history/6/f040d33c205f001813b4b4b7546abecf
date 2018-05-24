@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package facrory;
+
+/**
+ * @author dqtri
+ *
+ */
+public class ShapeFactory {
+
+}
