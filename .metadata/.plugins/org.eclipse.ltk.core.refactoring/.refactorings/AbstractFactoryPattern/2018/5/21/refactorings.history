@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;abstract_factory&apos; to &apos;factory&apos;&#x0A;- Original project: &apos;AbstractFactoryPattern&apos;&#x0A;- Original element: &apos;AbstractFactoryPattern/src/abstract_factory&apos;&#x0A;- Renamed element: &apos;AbstractFactoryPattern/src/factory&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;abstract_factory&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;abstract_factory" name="factory" qualified="false" references="true" stamp="1527146391814" textual="false" version="1.0"/>
+</session>
